@@ -1,3 +1,3 @@
-# A/B testing-dand
+# A/B testing-dand project
 
 Version #1
